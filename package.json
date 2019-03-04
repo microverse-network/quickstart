@@ -1,0 +1,10 @@
+{
+  "name": "@microverse-network/quickstart",
+  "version": "0.0.0",
+  "bin": {
+    "microverse-quickstart": "bin/quickstart.js"
+  },
+  "dependencies": {
+    "@microverse-network/core": "0.0.0"
+  }
+}
